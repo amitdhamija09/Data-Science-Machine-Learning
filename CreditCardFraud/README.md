@@ -6,7 +6,6 @@
 - Despite efforts on the part of the affected institutions, hundreds of millions of dollars are llost to fraud every year.
 
 
-According a report published by NIlson, in 2017 the worldwide losses in card fraud related cases reached 22.8 billion dollars. The problem is forecasted to get worse in the following years, by 2021, the card fraud bill is expected to be 32.96 billion dollars.
 
 # Methodolgies involved in day to day life to stop Fraud.
 For years, fraudsters would simply take numbers from __credit__ or __debit cards__ and print them onto blank plastic cards to use at brick-and-mortar stores. But in 2015, __Visa__ and __Mastercard__ mandated that banks and merchants introduce __EMV__--chip card technology, which made it possible for merchants to start requesting a PIN for each transaction.<br><br>
